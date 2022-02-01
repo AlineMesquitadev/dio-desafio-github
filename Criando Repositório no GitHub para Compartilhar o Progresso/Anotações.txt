@@ -1,0 +1,4 @@
+Nessa aula do bootcamp, foram relembrados alguns comandos do Git e GitHub e foi lançado um desafio de projeto. 
+O professor sugeriu a criação de um repositório onde pudéssemos organizar nossos estudos da forma que fosse melhor 
+para nós.
+Decidi então utilizar esse repositório para organizar os estudos do bootcamp, criando pastas com suas respectivas anotações.
